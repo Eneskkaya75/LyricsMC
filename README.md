@@ -6,6 +6,12 @@ Resmî dağıtım: https://github.com/Eneskkaya75/LyricsMC
 
 Bu depo derlenmiş LyricsMC sürümlerini ve sürüm notlarını dağıtır. Java kaynakları ve yayıncı imza anahtarı bu depoda paylaşılmaz.
 
+## 3.7.3
+
+Mor arayüz; sabit sol gezinme, geniş kozmetik kartları ve üç sekmeli gökyüzü galerisiyle yenilendi. Daha yumuşak yıldızlar, nebula ayrıntıları ve daha temiz gökyüzü renk geçişleri eklendi. Yeni hareketler: eğilerek selamlama, omuz silkme, dönüş ve kutlama.
+
+Emote ve kozmetikler ortak canlı bağlantıdan alınır. Kombinlerin sekiz saniyelik bekleme aralığı kaldırıldı; hareket komutları önceliklendirildi. Bağlantı yeniden kullanımı ve IPv4/IPv6 yol seçimi eklendi. Karşı oyuncuya ulaşma süresi bağlantıya bağlıdır; iki oyuncunun da 3.7.3 kullanması önerilir. V çarkı ve F ile ikili hareketler kullanılabilir.
+
 ## 3.7.2
 
 Uzaktaki oyuncunun emote'unu eski hız bilgisinden dolayı silen çizim kontrolü düzeltildi. Mesaj akışı tamponlandığında yedek aktarım, saat farkı uyarlaması ve uzaktaki modelden gösterim onayı eklendi.
