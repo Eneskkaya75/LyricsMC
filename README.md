@@ -6,6 +6,12 @@ Resmî dağıtım: https://github.com/Eneskkaya75/LyricsMC
 
 Bu depo derlenmiş LyricsMC sürümlerini ve sürüm notlarını dağıtır. Java kaynakları ve yayıncı imza anahtarı bu depoda paylaşılmaz.
 
+## 3.7.1
+
+Yenilenmiş LyricsMC arayüzü, daha büyük kozmetik önizlemeleri, ayrıntı/tam karakter provası ve sohbet/skor tablosu/boss çubuğuna göre yer değiştiren akıllı HUD.
+
+V'ye basılı tutup fareyle emote seçin. Favorileri çarka yerleştirin; birlikte hareket için yakındaki oyuncuya davet gönderin. İki oyuncuda da 3.7.1, emote paylaşımı ve çevrimiçi bağlantı gerekir. Chat emoji sistemi, Mavi Alev/Warden/Zebani Aesir paketleri, Tris ve Atelier ipek pelerinler kaldırıldı.
+
 ## Kurulum
 
 Releases bölümünden kendi Minecraft sürümünüze uygun en yeni JAR dosyasını indirin. 1.21.4 için `LyricsMC-1.21.4-Enws75-v…jar`, 1.21.11 için `LyricsMC-1.21.11-Enws75-v…jar` kullanılır. Fabric Loader ve oyun sürümüne uygun Fabric API gerekir. Aynı anda yalnızca tek LyricsMC sürümü yükleyin.
