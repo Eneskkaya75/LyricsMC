@@ -6,6 +6,12 @@ Resmî dağıtım: https://github.com/Eneskkaya75/LyricsMC
 
 Bu depo derlenmiş LyricsMC sürümlerini ve sürüm notlarını dağıtır. Java kaynakları ve yayıncı imza anahtarı bu depoda paylaşılmaz.
 
+## 3.7.2
+
+Uzaktaki oyuncunun emote'unu eski hız bilgisinden dolayı silen çizim kontrolü düzeltildi. Mesaj akışı tamponlandığında yedek aktarım, saat farkı uyarlaması ve uzaktaki modelden gösterim onayı eklendi.
+
+**Beşlik, yumruk tokuşturma ve ikili dans:** V çarkında F ile birlikte hareketleri açın, hareketi ve yakındaki arkadaşınızı seçip davet edin. İkinizde de 3.7.2 ve paylaşım açık olmalı. Mor tasarım korunarak emote stüdyosu ve çalışma alanı yenilendi.
+
 ## 3.7.1
 
 Yenilenmiş LyricsMC arayüzü, daha büyük kozmetik önizlemeleri, ayrıntı/tam karakter provası ve sohbet/skor tablosu/boss çubuğuna göre yer değiştiren akıllı HUD.
@@ -23,3 +29,4 @@ Güncelleme kanalı modun içinde sabittir; oyuncu depo, URL veya JAR seçemez. 
 Açılışta kontrol, otomatik indirme ve erteleme kişisel tercihlerdir. Kaynak seçimi bu tercihler arasında değildir. Yerel bilgisayarda JAR'ı elle değiştirme tamamen engellenemez; imza doğrulaması resmî güncelleme yolunu korur.
 
 Sürümlerdeki JSON ve SIG dosyaları otomatik güncelleyici içindir. Normal kurulumda yalnız JAR gerekir. Varlık ve üçüncü taraf bildirimleri JAR içindeki NOTICE.txt dosyasındadır.
+
