@@ -6,6 +6,12 @@ Resmî dağıtım: https://github.com/Eneskkaya75/LyricsMC
 
 Bu depo derlenmiş LyricsMC sürümlerini ve sürüm notlarını dağıtır. Java kaynakları ve yayıncı imza anahtarı bu depoda paylaşılmaz.
 
+## 3.7.4
+
+Minecraft 1.21.11 paketi Fabric API **0.141.3+1.21.11** ile uyumludur; 0.141.4 gereksiniminden kaynaklanan açılış engeli giderildi.
+
+Klasik düzen geri geldi: solda ayrı müzik kartı; sağda dikey menü ve geniş ayar alanı. Antrasit yüzeyler üzerinde turkuaz vurgu kullanılır; kişisel vurgu rengi seçilebilir. Müzik kartında kapak, oynatma, ilerleme ve ses kontrolleri bulunur. Geniş ekranlarda Minecraft GUI ölçeği bu kartı gizlemez; dar ekranlar için içeride oynatıcı görünümü vardır. Kozmetik, prova, emote ve güncelleme ekranlarının renkleri de uyumlu hâle getirildi.
+
 ## 3.7.3
 
 Mor arayüz; sabit sol gezinme, geniş kozmetik kartları ve üç sekmeli gökyüzü galerisiyle yenilendi. Daha yumuşak yıldızlar, nebula ayrıntıları ve daha temiz gökyüzü renk geçişleri eklendi. Yeni hareketler: eğilerek selamlama, omuz silkme, dönüş ve kutlama.
