@@ -6,9 +6,9 @@ Resmî dağıtım: https://github.com/Eneskkaya75/LyricsMC
 
 Bu depo derlenmiş LyricsMC sürümlerini ve sürüm notlarını dağıtır. Java kaynakları ve yayıncı imza anahtarı bu depoda paylaşılmaz.
 
-## 3.7.5 · Düzeltme 1
+## 3.7.5 · Düzeltme 2
 
-Lacivert müzik menüsü, genişleyen kozmetik dolabı, yenilenen emote çarkı ve iki özgün 4K panorama. Her Minecraft sürümü için ayrı imzalı dosya sağlanır.
+Birleşik lacivert menü, genişleyen kozmetik dolabı, yenilenen emote çarkı ve iki özgün 4K panorama. Her Minecraft sürümü için ayrı imzalı dosya sağlanır.
 
 ## 3.7.5
 
